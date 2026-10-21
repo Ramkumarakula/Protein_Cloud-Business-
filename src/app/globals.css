@@ -1,0 +1,108 @@
+@import "tailwindcss";
+@import "lenis/dist/lenis.css";
+
+@theme {
+  --color-wall: #ecebe8;
+  --color-wall-deep: #dedcd7;
+  --color-ink: #1e1e1e;
+  --color-muted: #646462; /* plan said #7A7A78, darkened to pass 4.5:1 on the wall */
+  --color-card: #ffffff;
+  --color-elite: #f2994a;
+  --color-protein: #e05a5a;
+  --color-custom: #4caf7a;
+  --color-paneer: #f5b544;
+  --color-chicken: #d9663c;
+  --color-egg: #f2c94c;
+  /* Text-safe darker accents (4.5:1 on the wall). */
+  --color-protein-ink: #b03535;
+  --color-custom-ink: #2e7d52;
+
+  --font-display: var(--font-outfit), ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+
+  --shadow-plate: 0 30px 60px rgba(0, 0, 0, 0.18);
+  --shadow-card: 0 24px 60px -20px rgba(30, 30, 30, 0.18), 0 2px 6px rgba(30, 30, 30, 0.04);
+  --shadow-soft: 0 10px 30px -12px rgba(30, 30, 30, 0.18);
+}
+
+@layer base {
+  html {
+    background: var(--color-wall);
+    color: var(--color-ink);
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    /* Soft plaster wall: two gentle radial washes over the base grey. */
+    background:
+      radial-gradient(1200px 700px at 20% 0%, #f2f1ee 0%, transparent 60%),
+      radial-gradient(900px 600px at 100% 30%, #f0efec 0%, transparent 55%), var(--color-wall);
+    background-attachment: fixed;
+    text-rendering: optimizeLegibility;
+  }
+
+  :focus-visible {
+    outline: 2.5px solid var(--color-ink);
+    outline-offset: 3px;
+    border-radius: 999px;
+  }
+
+  ::selection {
+    background: rgb(242 153 74 / 0.35);
+  }
+}
+
+@utility font-display {
+  font-family: var(--font-display);
+}
+
+@utility glass {
+  background: rgb(255 255 255 / 0.55);
+  backdrop-filter: blur(14px) saturate(140%);
+  -webkit-backdrop-filter: blur(14px) saturate(140%);
+  border: 1px solid rgb(255 255 255 / 0.7);
+}
+
+@utility no-scrollbar {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* Slow diagonal light sweep across the Gold (Elite) pricing card. */
+@utility gold-sheen {
+  background: linear-gradient(
+    115deg,
+    transparent 35%,
+    rgb(255 236 180 / 0.13) 47%,
+    rgb(255 246 214 / 0.22) 50%,
+    rgb(255 236 180 / 0.13) 53%,
+    transparent 65%
+  );
+  background-size: 250% 100%;
+  animation: gold-sheen 6s ease-in-out infinite;
+}
+
+@keyframes gold-sheen {
+  0%,
+  35% {
+    background-position: 120% 0;
+  }
+  100% {
+    background-position: -120% 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+  }
+  .gold-sheen {
+    animation: none;
+    background: none;
+  }
+}

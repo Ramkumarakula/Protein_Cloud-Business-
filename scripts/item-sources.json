@@ -1,0 +1,141 @@
+{
+  "grilled-chicken": {
+    "url": "https://images.pexels.com/photos/6107766/pexels-photo-6107766.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "page": "https://www.pexels.com/photo/6107766/",
+    "title": "Sliced grilled chicken breast on slate",
+    "author": "",
+    "license": "Pexels License (free to use, no attribution required)",
+    "crop": [
+      0.26,
+      0.35,
+      0.74,
+      0.77
+    ],
+    "mode": "cutout"
+  },
+  "paneer": {
+    "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL3B4OTE0MDE2LWltYWdlLWt3dnV0bnoyLmpwZw.jpg",
+    "page": "https://www.rawpixel.com/image/5904255/photo-image-background-public-domain-table",
+    "title": "Free tofu dish image",
+    "author": "",
+    "license": "CC0 1.0 (public domain dedication)",
+    "crop": [
+      0.29,
+      0.3,
+      0.745,
+      0.93
+    ],
+    "mode": "bright",
+    "note": "Fresh tofu blocks, which look the same as paneer. Replace with a real paneer photo when available.",
+    "threshold": 130,
+    "hull": true
+  },
+  "boiled-eggs": {
+    "url": "https://images.pexels.com/photos/806457/pexels-photo-806457.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "page": "https://www.pexels.com/photo/806457/",
+    "title": "Sliced boiled egg on white plate",
+    "author": "",
+    "license": "Pexels License (free to use, no attribution required)",
+    "crop": null,
+    "mode": "ellipses",
+    "shapes": [
+      [
+        0.4025,
+        0.612,
+        0.135,
+        0.136,
+        0
+      ],
+      [
+        0.672,
+        0.603,
+        0.131,
+        0.131,
+        0
+      ]
+    ],
+    "note": "Egg whites masked with ellipses (white on a white plate)."
+  },
+  "brown-rice": {
+    "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL2ZsNTE0MzE0NDQ3MzQtaW1hZ2UuanBn.jpg",
+    "page": "https://www.rawpixel.com/image/8731984/photo-image-white-background-public-domain-food",
+    "title": "Cooked brown rice white background",
+    "author": "U.S. Department of Agriculture",
+    "license": "CC0 1.0 (public domain dedication)",
+    "crop": null,
+    "mode": "cutout"
+  },
+  "quinoa": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bolivian_quinoa_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Bolivian_quinoa_(1).jpg",
+    "title": "File:Bolivian quinoa (1).jpg",
+    "author": "Fumikas Sagisavas",
+    "license": "CC0 1.0 (public domain dedication)",
+    "crop": null,
+    "mode": "mound",
+    "note": "Free quinoa photos are only flat grain textures, so the script shapes the texture into a top-down portion."
+  },
+  "sweet-potato": {
+    "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDIyLTExL2ZsNTE0MzE0NDUzMzktaW1hZ2UuanBn.jpg",
+    "page": "https://www.rawpixel.com/image/8735000/photo-image-public-domain-food-fruit",
+    "title": "1/4 cup roasted sweet potatoes",
+    "author": "U.S. Department of Agriculture",
+    "license": "CC0 1.0 (public domain dedication)",
+    "crop": null,
+    "mode": "cutout"
+  },
+  "broccoli": {
+    "url": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxMDQ4NjQ5LWltYWdlLWt3dndlandiLmpwZw.jpg",
+    "page": "https://www.rawpixel.com/image/5914374/image-public-domain-plant-green",
+    "title": "Free closeup broccoli white background",
+    "author": "",
+    "license": "CC0 1.0 (public domain dedication)",
+    "crop": null,
+    "mode": "cutout"
+  },
+  "spinach": {
+    "url": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHUyMzMzNDQwLWltYWdlLWt3eXJzZjhyLmpwZw.jpg",
+    "page": "https://www.rawpixel.com/image/5966142/young-spinach-basket",
+    "title": "Young spinach in a basket",
+    "author": "",
+    "license": "CC0 1.0 (public domain dedication)",
+    "crop": null,
+    "mode": "cutout"
+  },
+  "bell-peppers": {
+    "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL3B4OTQzOTM2LWltYWdlLWt3dnVzZHNqLmpwZw.jpg",
+    "page": "https://www.rawpixel.com/image/5904062/photo-image-public-domain-plant-fruit",
+    "title": "Free closeup bell peppers white",
+    "author": "",
+    "license": "CC0 1.0 (public domain dedication)",
+    "crop": null,
+    "mode": "cutout"
+  },
+  "apple": {
+    "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL2ZsNTE0MzE2NzMwNTAtaW1hZ2UuanBn.jpg",
+    "page": "https://www.rawpixel.com/image/8731870/photo-image-white-background-public-domain-food",
+    "title": "Thinly sliced apples white background",
+    "author": "U.S. Department of Agriculture",
+    "license": "CC0 1.0 (public domain dedication)",
+    "crop": null,
+    "mode": "cutout"
+  },
+  "papaya": {
+    "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL2JzNzEzNC1pbWFnZS1rd3Z4MnlvNC5qcGc.jpg",
+    "page": "https://www.rawpixel.com/image/5918834/free-papaya-image-public-domain-fruit-cc0-photo",
+    "title": "Free papaya image",
+    "author": "",
+    "license": "CC0 1.0 (public domain dedication)",
+    "crop": null,
+    "mode": "cutout"
+  },
+  "berries": {
+    "url": "https://cdn.stocksnap.io/img-thumbs/960w/4MUZH41WMD.jpg",
+    "page": "https://stocksnap.io/photo/fruit-bowl-4MUZH41WMD",
+    "title": "Fruit Bowl",
+    "author": "Suzy Hazelwood",
+    "license": "CC0 1.0 (public domain dedication)",
+    "crop": null,
+    "mode": "cutout"
+  }
+}

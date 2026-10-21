@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="600" height="600" role="img" aria-label="Boiled eggs">
+<ellipse cx="100" cy="170" rx="64" ry="10" fill="#1E1E1E" opacity=".09"/>
+<g transform="rotate(-12 70 108)">
+<ellipse cx="70" cy="108" rx="40.0" ry="50.0" fill="#E9E0CC"/>
+<ellipse cx="68" cy="104" rx="37.0" ry="47.0" fill="#FFFDF7"/>
+<circle cx="70" cy="114" r="23.0" fill="#EE9C17"/>
+<circle cx="68" cy="111" r="17.0" fill="#F7BE45"/>
+<circle cx="62" cy="105" r="5.0" fill="#FFE29A"/>
+</g>
+<g transform="rotate(14 136 104)">
+<ellipse cx="136" cy="104" rx="38.0" ry="47.5" fill="#E9E0CC"/>
+<ellipse cx="134" cy="100" rx="35.15" ry="44.65" fill="#FFFDF7"/>
+<circle cx="136" cy="110" r="21.849999999999998" fill="#EE9C17"/>
+<circle cx="134" cy="107" r="16.15" fill="#F7BE45"/>
+<circle cx="128" cy="101" r="4.75" fill="#FFE29A"/>
+</g><g fill="#3B2A1A"><circle cx="74" cy="118" r="1.8"/><circle cx="140" cy="112" r="1.8"/><circle cx="130" cy="117" r="1.5"/></g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="600" height="600" role="img" aria-label="Bell peppers">
+<ellipse cx="100" cy="170" rx="64" ry="10" fill="#1E1E1E" opacity=".09"/>
+<path d="M86 56c-10-8-30-8-40 4-14 16-14 50-6 74 6 18 20 28 32 22 6 6 22 6 28 0 12 6 26-4 32-22 8-24 8-58-6-74-10-12-30-12-40-4z" fill="#C83A2C"/>
+<path d="M86 56c-10-8-30-8-40 4-14 16-14 50-6 74 6 18 20 28 32 22 6 4 10 5 14 5V56z" fill="#E5523F"/>
+<path d="M72 64c-6 24-6 56 0 86M100 64c6 24 6 56 0 86" stroke="#A92E22" stroke-width="4" stroke-linecap="round" fill="none" opacity=".55"/>
+<path d="M54 76c-4 12-4 26-2 38" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" fill="none" opacity=".5"/>
+<ellipse cx="86" cy="56" rx="18" ry="7" fill="#3E8E3E"/>
+<path d="M86 54c0-12 4-20 14-26" stroke="#4E9A43" stroke-width="9" stroke-linecap="round" fill="none"/>
+<g transform="translate(146 140) rotate(-10)">
+<path d="M0-30c10-4 20 2 24 10 8 10 8 24 0 34-6 8-16 10-24 8-8 2-18 0-24-8-8-10-8-24 0-34 4-8 14-14 24-10z" fill="#D9A21A"/>
+<path d="M0-21c7-3 14 2 17 7 6 7 6 17 0 24-4 5-11 7-17 5-6 2-13 0-17-5-6-7-6-17 0-24 3-5 10-10 17-7z" fill="#FFF4D2"/>
+<path d="M0-30c10-4 20 2 24 10 8 10 8 24 0 34" stroke="#F6C437" stroke-width="5" fill="none" stroke-linecap="round"/>
+</g>
+</svg>

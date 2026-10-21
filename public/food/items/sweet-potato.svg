@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="600" height="600" role="img" aria-label="Sweet potato">
+<ellipse cx="100" cy="170" rx="64" ry="10" fill="#1E1E1E" opacity=".09"/>
+<defs><g id="cube">
+<path d="M0 0 33-15 66 0 33 15z" fill="#F7A55A"/>
+<path d="M0 0 33 15v35L0 35z" fill="#E57F2E"/>
+<path d="M66 0 33 15v35l33-15z" fill="#C9661F"/>
+<path d="M0 0 33-15 66 0" stroke="#8C3F1A" stroke-width="4" fill="none" stroke-linejoin="round"/>
+<circle cx="18" cy="21" r="3.4" fill="#9E4A1C" opacity=".75"/>
+<circle cx="48" cy="29" r="3" fill="#9E4A1C" opacity=".65"/>
+<circle cx="28" cy="-2" r="2.8" fill="#C9661F" opacity=".7"/>
+<circle cx="42" cy="4" r="2.4" fill="#C9661F" opacity=".6"/>
+</g></defs>
+<use href="#cube" transform="translate(28 114)"/>
+<use href="#cube" transform="translate(106 114)"/>
+<use href="#cube" transform="translate(67 66)"/>
+</svg>

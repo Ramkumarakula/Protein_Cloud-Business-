@@ -1,0 +1,344 @@
+{
+  "/food/items/apple.png": {
+    "type": "raster",
+    "width": 600,
+    "height": 600,
+    "variants": [
+      {
+        "width": 600,
+        "src": "/food/items/apple-600.webp"
+      },
+      {
+        "width": 300,
+        "src": "/food/items/apple-300.webp"
+      }
+    ]
+  },
+  "/food/items/apple.svg": {
+    "type": "svg"
+  },
+  "/food/items/bell-peppers.png": {
+    "type": "raster",
+    "width": 600,
+    "height": 600,
+    "variants": [
+      {
+        "width": 600,
+        "src": "/food/items/bell-peppers-600.webp"
+      },
+      {
+        "width": 300,
+        "src": "/food/items/bell-peppers-300.webp"
+      }
+    ]
+  },
+  "/food/items/bell-peppers.svg": {
+    "type": "svg"
+  },
+  "/food/items/berries.png": {
+    "type": "raster",
+    "width": 600,
+    "height": 600,
+    "variants": [
+      {
+        "width": 600,
+        "src": "/food/items/berries-600.webp"
+      },
+      {
+        "width": 300,
+        "src": "/food/items/berries-300.webp"
+      }
+    ]
+  },
+  "/food/items/berries.svg": {
+    "type": "svg"
+  },
+  "/food/items/boiled-eggs.png": {
+    "type": "raster",
+    "width": 600,
+    "height": 600,
+    "variants": [
+      {
+        "width": 600,
+        "src": "/food/items/boiled-eggs-600.webp"
+      },
+      {
+        "width": 300,
+        "src": "/food/items/boiled-eggs-300.webp"
+      }
+    ]
+  },
+  "/food/items/boiled-eggs.svg": {
+    "type": "svg"
+  },
+  "/food/items/broccoli.png": {
+    "type": "raster",
+    "width": 600,
+    "height": 600,
+    "variants": [
+      {
+        "width": 600,
+        "src": "/food/items/broccoli-600.webp"
+      },
+      {
+        "width": 300,
+        "src": "/food/items/broccoli-300.webp"
+      }
+    ]
+  },
+  "/food/items/broccoli.svg": {
+    "type": "svg"
+  },
+  "/food/items/brown-rice.png": {
+    "type": "raster",
+    "width": 600,
+    "height": 600,
+    "variants": [
+      {
+        "width": 600,
+        "src": "/food/items/brown-rice-600.webp"
+      },
+      {
+        "width": 300,
+        "src": "/food/items/brown-rice-300.webp"
+      }
+    ]
+  },
+  "/food/items/brown-rice.svg": {
+    "type": "svg"
+  },
+  "/food/items/grilled-chicken.png": {
+    "type": "raster",
+    "width": 600,
+    "height": 600,
+    "variants": [
+      {
+        "width": 600,
+        "src": "/food/items/grilled-chicken-600.webp"
+      },
+      {
+        "width": 300,
+        "src": "/food/items/grilled-chicken-300.webp"
+      }
+    ]
+  },
+  "/food/items/grilled-chicken.svg": {
+    "type": "svg"
+  },
+  "/food/items/paneer.png": {
+    "type": "raster",
+    "width": 600,
+    "height": 600,
+    "variants": [
+      {
+        "width": 600,
+        "src": "/food/items/paneer-600.webp"
+      },
+      {
+        "width": 300,
+        "src": "/food/items/paneer-300.webp"
+      }
+    ]
+  },
+  "/food/items/paneer.svg": {
+    "type": "svg"
+  },
+  "/food/items/papaya.png": {
+    "type": "raster",
+    "width": 600,
+    "height": 600,
+    "variants": [
+      {
+        "width": 600,
+        "src": "/food/items/papaya-600.webp"
+      },
+      {
+        "width": 300,
+        "src": "/food/items/papaya-300.webp"
+      }
+    ]
+  },
+  "/food/items/papaya.svg": {
+    "type": "svg"
+  },
+  "/food/items/quinoa.png": {
+    "type": "raster",
+    "width": 600,
+    "height": 600,
+    "variants": [
+      {
+        "width": 600,
+        "src": "/food/items/quinoa-600.webp"
+      },
+      {
+        "width": 300,
+        "src": "/food/items/quinoa-300.webp"
+      }
+    ]
+  },
+  "/food/items/quinoa.svg": {
+    "type": "svg"
+  },
+  "/food/items/spinach.png": {
+    "type": "raster",
+    "width": 600,
+    "height": 600,
+    "variants": [
+      {
+        "width": 600,
+        "src": "/food/items/spinach-600.webp"
+      },
+      {
+        "width": 300,
+        "src": "/food/items/spinach-300.webp"
+      }
+    ]
+  },
+  "/food/items/spinach.svg": {
+    "type": "svg"
+  },
+  "/food/items/sweet-potato.png": {
+    "type": "raster",
+    "width": 600,
+    "height": 600,
+    "variants": [
+      {
+        "width": 600,
+        "src": "/food/items/sweet-potato-600.webp"
+      },
+      {
+        "width": 300,
+        "src": "/food/items/sweet-potato-300.webp"
+      }
+    ]
+  },
+  "/food/items/sweet-potato.svg": {
+    "type": "svg"
+  },
+  "/food/plate-custom.png": {
+    "type": "raster",
+    "width": 1600,
+    "height": 1600,
+    "variants": [
+      {
+        "width": 1600,
+        "src": "/food/plate-custom-1600.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/food/plate-custom-1000.webp"
+      },
+      {
+        "width": 600,
+        "src": "/food/plate-custom-600.webp"
+      },
+      {
+        "width": 300,
+        "src": "/food/plate-custom-300.webp"
+      }
+    ]
+  },
+  "/food/plate-elite.png": {
+    "type": "raster",
+    "width": 1600,
+    "height": 1600,
+    "variants": [
+      {
+        "width": 1600,
+        "src": "/food/plate-elite-1600.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/food/plate-elite-1000.webp"
+      },
+      {
+        "width": 600,
+        "src": "/food/plate-elite-600.webp"
+      },
+      {
+        "width": 300,
+        "src": "/food/plate-elite-300.webp"
+      }
+    ]
+  },
+  "/food/plate-protein.png": {
+    "type": "raster",
+    "width": 1600,
+    "height": 1600,
+    "variants": [
+      {
+        "width": 1600,
+        "src": "/food/plate-protein-1600.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/food/plate-protein-1000.webp"
+      },
+      {
+        "width": 600,
+        "src": "/food/plate-protein-600.webp"
+      },
+      {
+        "width": 300,
+        "src": "/food/plate-protein-300.webp"
+      }
+    ]
+  },
+  "/food/sandwich-chicken.png": {
+    "type": "raster",
+    "width": 1200,
+    "height": 1200,
+    "variants": [
+      {
+        "width": 1000,
+        "src": "/food/sandwich-chicken-1000.webp"
+      },
+      {
+        "width": 600,
+        "src": "/food/sandwich-chicken-600.webp"
+      },
+      {
+        "width": 300,
+        "src": "/food/sandwich-chicken-300.webp"
+      }
+    ]
+  },
+  "/food/sandwich-egg.png": {
+    "type": "raster",
+    "width": 1200,
+    "height": 1200,
+    "variants": [
+      {
+        "width": 1000,
+        "src": "/food/sandwich-egg-1000.webp"
+      },
+      {
+        "width": 600,
+        "src": "/food/sandwich-egg-600.webp"
+      },
+      {
+        "width": 300,
+        "src": "/food/sandwich-egg-300.webp"
+      }
+    ]
+  },
+  "/food/sandwich-paneer.png": {
+    "type": "raster",
+    "width": 1200,
+    "height": 1200,
+    "variants": [
+      {
+        "width": 1000,
+        "src": "/food/sandwich-paneer-1000.webp"
+      },
+      {
+        "width": 600,
+        "src": "/food/sandwich-paneer-600.webp"
+      },
+      {
+        "width": 300,
+        "src": "/food/sandwich-paneer-300.webp"
+      }
+    ]
+  }
+}

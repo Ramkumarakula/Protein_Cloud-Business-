@@ -1,0 +1,25 @@
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+.env
+.env*.local
+.env.*
+!.env.example
+playwright-report/
+test-results/
+screenshots/
+.DS_Store
+public/food/**/*.webp
+.pages-preview/
+graphify-out/
+
+# Local tooling (not part of the site)
+.claude/
+CLAUDE.md
+graphify-out/
+
+# Raw source media; the site uses the processed copies in public/
+Images/
+.gitattributes
